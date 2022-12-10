@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-
  * main - Entry point
 
  *
@@ -11,40 +10,38 @@
  */
 
 int main(void)
-  
-{
-  
-  int nums;
-  
-  int nums1;
 
+{
+
+int nums;
+ 
+int nums1;
   
-  for (nums = '1'; nums <= '9'; nums++)
+for (nums = '1'; nums <= '9'; nums++)
     
-    {
+{
       
-      for (nums1 = 0; nums1 <= '9'; nums1++)
+for (nums1 = 0; nums1 <= '9'; nums1++)
 	
-	{	      
-	      putchar(nums);
+{	      
+putchar(nums);
 	      
-	      putchar(nums1);
+putchar(nums1);
+
+if (nums == '9' && nums1 == '9')
+
+break;
 	      
+putchar(',');
 	      
-	      if (nums == '9' && nums1 == '9')
-		
-		break;
+putchar(' ');
 	      
-	      putchar(',');
-	      
-	      putchar(' ');
-	      
-	    }
+}
 	  
-	}
+}
   
-  putchar('\n');
+putchar('\n');
   
-  return (0);
+return (0);
   
 }
