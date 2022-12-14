@@ -1,8 +1,8 @@
 
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - print holberton
+ * main - print main
  * Return: 0 if succesful
  */
 int main(void)
