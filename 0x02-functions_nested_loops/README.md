@@ -1,8 +1,8 @@
 0x02 C -Functions, nested loops
 
-All task must use _putchar function in created header holberton.h
+All task must use _putchar function in created header main.h
 
-Task 0 - wrtie a program that prints Holberton followed by a new line
+Task 0 - wrtie a program that prints _putchar followed by a new line
 Task 1 - print alphabet in lowercase followed by a new line
 Task 2 - print alphabet ten times
 Task 3 - write a function that checks for lowercase characters
