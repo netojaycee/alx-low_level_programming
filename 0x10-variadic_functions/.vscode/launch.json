@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ClarinetoJayCee/github/alx-low_level_programming/0x10-variadic_functions",
-      "program": "c:/Users/ClarinetoJayCee/github/alx-low_level_programming/0x10-variadic_functions/build/Debug/outDebug",
+      "cwd": "c:/Users/ClarinetoJayCee/Desktop/holbertonschool-low_level_programming-master/0x10-variadic_functions",
+      "program": "c:/Users/ClarinetoJayCee/Desktop/holbertonschool-low_level_programming-master/0x10-variadic_functions/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
